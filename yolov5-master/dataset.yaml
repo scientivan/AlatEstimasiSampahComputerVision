@@ -1,0 +1,5 @@
+train: ../dataset/train/images
+val: ../dataset/valid/images
+
+nc: 8
+names : ['organik','botol plastik','metal','kertas','kaca','styrofoam', 'lain-lain','aruco']
